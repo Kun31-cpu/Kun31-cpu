@@ -5,10 +5,4 @@
 - 📫 How to reach me:
 - or instagram (https://www.instagram.com/__i_am_kuntal_b?utm_source=qr&igsh=MWJxMzdkY2htdWhhbQ==)
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I once mapped an entire company’s external attack surface using just open-source tools and a coffee  
-
-
-<!---
-Kun31-cpu/Kun31-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I once mapped an entire company’s external attack surface using just open-source tools tools and a coffee
