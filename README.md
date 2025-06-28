@@ -1,8 +1,50 @@
-- 👋 Hi, I’m Kunntal Bera 
-- 👀 I’m interested in ethical hacking, digital forensics, and building powerful recon tools  
-- 🌱 I’m currently learning advanced Python, red teaming techniques, and exploit development  
-- 💞️ I’m looking to collaborate on open-source cybersecurity tools, CTF challenges, and automation scripts  
-- 📫 How to reach me:
-- or instagram (https://www.instagram.com/__i_am_kuntal_b?utm_source=qr&igsh=MWJxMzdkY2htdWhhbQ==)
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I once mapped an entire company’s external attack surface using just open-source tools tools and a coffee
+<h1 align="center">Hey there! 👋 I'm Kuntal Bera</h1>
+
+<p align="center">
+  🕵️‍♂️ Ethical Hacker | 🧑‍💻 Red Teamer-in-Training | 🛠 Cybersecurity Toolsmith  
+</p>
+
+---
+
+## 💡 About Me
+- 🔐 I’m passionate about **ethical hacking**, **digital forensics**, and building **powerful recon tools**  
+- 🧠 Currently diving deep into:
+  - 🚀 Advanced **Python scripting**
+  - 🎯 **Red Team tactics**
+  - 💣 **Exploit development** & **bypasses**
+- 🤝 Looking to collaborate on:
+  - Open-source cybersecurity tools 🔧  
+  - CTF challenges & labs (THM, HTB, etc.) 🕵️  
+  - Automation scripts for real-world pentesting ⚙️
+
+---
+
+## 🧰 Tools & Tech I Love
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+- 💬 DM me on **Instagram**: [__i_am_kuntal_b](https://www.instagram.com/__i_am_kuntal_b?utm_source=qr&igsh=MWJxMzdkY2htdWhhbQ==)  
+- 🧠 Check out my CTF writeups & tools on **GitHub**  
+- 💌 Or reach out via email (coming soon...)
+
+---
+
+## 👀 Fun Fact
+> ☕ I once mapped an entire company’s external attack surface using only **open-source tools** — and a **good cup of coffee**!
+
+---
+
+## 😄 Pronouns
+**He / Him**
+
+---
+
+⭐ *If you're building something cool in infosec, I'm always down to team up or brainstorm. Let's hack responsibly and build securely!*
