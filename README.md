@@ -31,7 +31,8 @@
 
 ## 📫 Connect with Me
 
-- 💬 DM me on **Instagram**: [__i_am_kuntal_b](https://www.instagram.com/__i_am_kuntal_b?utm_source=qr&igsh=MWJxMzdkY2htdWhhbQ==)  
+- 💬 DM me on **Instagram**: [__i_am_kuntal_b](https://www.instagram.com/__i_am_kuntal_b?utm_source=qr&igsh=MWJxMzdkY2htdWhhbQ==)
+- 💬 DM me on **Iinkedln**: https://www.linkedin.com/in/kuntal-bera-636a2832a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 🧠 Check out my CTF writeups & tools on **GitHub**  
 - 💌 Or reach out via email (kbera1363@gmail.com)
 
