@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Kuntal Bera</h1>
+<h1 align="center">Hey there! I'm Kuntal Bera</h1>
 
 <p align="center">
   🕵️‍♂️ Ethical Hacker | 🧑‍💻 Red Teamer-in-Training | 🛠 Cybersecurity Toolsmith  
@@ -8,10 +8,10 @@
 
 ## 💡 About Me
 - 🔐 I’m passionate about **ethical hacking**, **digital forensics**, and building **powerful recon tools**  
-- 🧠 Currently diving deep into:
-  - 🚀 Advanced **Python scripting**
-  - 🎯 **Red Team tactics**
-  - 💣 **Exploit development** & **bypasses**
+-  Currently diving deep into:
+  -  Advanced **Python scripting**
+  -  **Red Team tactics**
+  -  **Exploit development** & **bypasses**
 - 🤝 Looking to collaborate on:
   - Open-source cybersecurity tools 🔧  
   - CTF challenges & labs (THM, HTB, etc.) 🕵️  
@@ -33,18 +33,10 @@
 
 - 💬 DM me on **Instagram**: [__i_am_kuntal_b](https://www.instagram.com/__i_am_kuntal_b?utm_source=qr&igsh=MWJxMzdkY2htdWhhbQ==)  
 - 🧠 Check out my CTF writeups & tools on **GitHub**  
-- 💌 Or reach out via email (coming soon...)
+- 💌 Or reach out via email (kbera1363@gmail.com)
 
 ---
 
 ## 👀 Fun Fact
 > ☕ I once mapped an entire company’s external attack surface using only **open-source tools** — and a **good cup of coffee**!
 
----
-
-## 😄 Pronouns
-**He / Him**
-
----
-
-⭐ *If you're building something cool in infosec, I'm always down to team up or brainstorm. Let's hack responsibly and build securely!*
